@@ -1,5 +1,9 @@
-package main
+package puppy
 
-func main(){
-	// comments
+func bark() string {
+	return "woof!"
+}
+
+func barks() string {
+	return "woof woof woof!!!"
 }
